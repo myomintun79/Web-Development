@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=FvqRUwFHWZY&ab_channel=BrainstormForce \
 Wordpress Mail \
 https://wpmailsmtp.com/
 
+# Elementor loading error fix
+1-Elementor setting->Advanced->Switch Editor Loader Method->Enable \
+2-Permalink Settings - choose--> Plain
