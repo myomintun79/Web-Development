@@ -3,7 +3,7 @@ For Create Web-Site Technology
 
 # Let's Encrypt SSL
 https://www.youtube.com/watch?v=ikBodcNQkbw&ab_channel=jameskiarie \
-https://www.ssllabs.com/ssltest/ \
+https://www.ssllabs.com/ssltest/  \
 
 
 # Wordpress
