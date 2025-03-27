@@ -17,6 +17,7 @@ Wordpress Mail \
 https://wpmailsmtp.com/
 
 # Image Gallery
+Photo Gallery by 10Web – Mobile-Friendly Image Gallery \
 https://www.youtube.com/watch?v=WXb1ToF_78I&ab_channel=ArupTalkBlogs
 
 # Elementor loading error fix
