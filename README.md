@@ -16,6 +16,9 @@ https://www.youtube.com/watch?v=FvqRUwFHWZY&ab_channel=BrainstormForce \
 Wordpress Mail \
 https://wpmailsmtp.com/
 
+# Image Gallery
+https://www.youtube.com/watch?v=WXb1ToF_78I&ab_channel=ArupTalkBlogs
+
 # Elementor loading error fix
 1-Elementor setting->Advanced->Switch Editor Loader Method->Enable \
 2-Permalink Settings - choose--> Plain
