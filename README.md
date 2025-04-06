@@ -20,6 +20,9 @@ https://wpmailsmtp.com/
 Photo Gallery by 10Web – Mobile-Friendly Image Gallery \
 https://www.youtube.com/watch?v=WXb1ToF_78I&ab_channel=ArupTalkBlogs
 
+# Google Map
+https://www.youtube.com/watch?v=plBGC0IPz3U&ab_channel=AlexCooper-WPEagle
+
 # Image Slider
 smart slider 3 \
 https://www.youtube.com/watch?v=2UMkcu6JY3s&ab_channel=WPDev
