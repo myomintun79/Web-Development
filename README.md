@@ -31,6 +31,10 @@ https://www.youtube.com/watch?v=plBGC0IPz3U&ab_channel=AlexCooper-WPEagle
 smart slider 3 \
 https://www.youtube.com/watch?v=2UMkcu6JY3s&ab_channel=WPDev
 
+# Post/Page Copy and Cloning
+https://wordpress.org/plugins/duplicate-post/ \
+https://www.youtube.com/watch?v=uBWZnhtfZV8&ab_channel=WebWash
+
 # Elementor loading error fix
 1-Elementor setting->Advanced->Switch Editor Loader Method->Enable \
 2-Permalink Settings - choose--> Plain
