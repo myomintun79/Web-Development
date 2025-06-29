@@ -40,6 +40,10 @@ https://www.youtube.com/watch?v=uBWZnhtfZV8&ab_channel=WebWash
 https://wordpress.org/plugins/megamenu/ \
 https://www.youtube.com/watch?v=xj15urkdR1k&t=398s&ab_channel=DigitalCommerce
 
+# Change login URL
+WPS Hide Login \
+https://www.youtube.com/watch?v=EqiivbuKFBs&ab_channel=TwP-HelpingCreatorswithTech
+
 # Elementor loading error fix
 1-Elementor setting->Advanced->Switch Editor Loader Method->Enable \
 2-Permalink Settings - choose--> Plain
