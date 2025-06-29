@@ -21,6 +21,7 @@ Photo Gallery by 10Web – Mobile-Friendly Image Gallery \
 https://www.youtube.com/watch?v=WXb1ToF_78I&ab_channel=ArupTalkBlogs
 
 # Backup & Restore
+UpdraftPlus vs WPvivid \
 https://www.youtube.com/watch?v=X96gSGfZP1w&ab_channel=HowTo1Minute \
 https://www.youtube.com/watch?v=kmoSDNCLoKg&ab_channel=WPWiki-DigitalWebTutor
 
