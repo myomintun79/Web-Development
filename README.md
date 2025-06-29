@@ -35,6 +35,10 @@ https://www.youtube.com/watch?v=2UMkcu6JY3s&ab_channel=WPDev
 https://wordpress.org/plugins/duplicate-post/ \
 https://www.youtube.com/watch?v=uBWZnhtfZV8&ab_channel=WebWash
 
+# Menu/Sub Menu edit
+https://wordpress.org/plugins/megamenu/ \
+https://www.youtube.com/watch?v=xj15urkdR1k&t=398s&ab_channel=DigitalCommerce
+
 # Elementor loading error fix
 1-Elementor setting->Advanced->Switch Editor Loader Method->Enable \
 2-Permalink Settings - choose--> Plain
