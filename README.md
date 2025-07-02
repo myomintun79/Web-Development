@@ -46,8 +46,12 @@ WPS Hide Login \
 https://www.youtube.com/watch?v=EqiivbuKFBs&ab_channel=TwP-HelpingCreatorswithTech
 
 # WP Security
-All In One WP Security & Firewall \
+All In One WP Security & Firewall \ 
 https://www.youtube.com/watch?v=S53hlX6iImI&t=71s&ab_channel=WordPressInfo
+
+# Visitor Tracking
+WP Statistics \
+https://www.youtube.com/watch?v=VMhwp0anQu8&ab_channel=WebTaskWithHassan
 
 # Elementor loading error fix
 1-Elementor setting->Advanced->Switch Editor Loader Method->Enable \
