@@ -56,3 +56,7 @@ https://www.youtube.com/watch?v=VMhwp0anQu8&ab_channel=WebTaskWithHassan
 # Elementor loading error fix
 1-Elementor setting->Advanced->Switch Editor Loader Method->Enable \
 2-Permalink Settings - choose--> Plain
+
+# Hotel
+https://wordpress.org/plugins/wp-hotel-booking/ \
+
