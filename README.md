@@ -60,3 +60,6 @@ https://www.youtube.com/watch?v=VMhwp0anQu8&ab_channel=WebTaskWithHassan
 # Hotel
 https://wordpress.org/plugins/wp-hotel-booking/ \
 
+# Cloudpanel
+https://www.cloudpanel.io/docs/v2/getting-started/other/
+
