@@ -62,5 +62,6 @@ https://wordpress.org/plugins/wp-hotel-booking/ \
 
 # Cloudpanel
 https://www.cloudpanel.io/docs/v2/getting-started/other/ \
-https://www.youtube.com/watch?v=Ujrk1Ph2FPI&ab_channel=PracticalTechSkills
+https://www.youtube.com/watch?v=Ujrk1Ph2FPI&ab_channel=PracticalTechSkills \
+https://www.youtube.com/watch?v=daJ3JmoVKHA&ab_channel=PracticalTechSkills
 
