@@ -64,5 +64,6 @@ https://wordpress.org/plugins/wp-hotel-booking/ \
 https://www.cloudpanel.io/docs/v2/getting-started/other/ \
 https://www.youtube.com/watch?v=Ujrk1Ph2FPI&ab_channel=PracticalTechSkills \
 https://www.youtube.com/watch?v=daJ3JmoVKHA&ab_channel=PracticalTechSkills \
-https://www.youtube.com/watch?v=Oiev24fEznk&list=PL8kmtBsBrpsw6P4DOTdr-6x5d7vRQSQtk&index=2&ab_channel=WebShanks
+https://www.youtube.com/watch?v=Oiev24fEznk&list=PL8kmtBsBrpsw6P4DOTdr-6x5d7vRQSQtk&index=2&ab_channel=WebShanks \
+https://www.youtube.com/watch?v=ap1N3fG7S1I&list=PL8kmtBsBrpsw6P4DOTdr-6x5d7vRQSQtk&index=3&ab_channel=WebShanks
 
