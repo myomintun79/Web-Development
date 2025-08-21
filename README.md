@@ -31,7 +31,8 @@ https://www.youtube.com/watch?v=plBGC0IPz3U&ab_channel=AlexCooper-WPEagle
 
 # Image Slider
 smart slider 3 \
-https://www.youtube.com/watch?v=2UMkcu6JY3s&ab_channel=WPDev
+https://www.youtube.com/watch?v=2UMkcu6JY3s&ab_channel=WPDev \
+https://www.youtube.com/watch?v=QMxUBS1osl4&ab_channel=QuickTips
 
 # Post/Page Copy and Cloning
 https://wordpress.org/plugins/duplicate-post/ \
