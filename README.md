@@ -54,6 +54,9 @@ https://www.youtube.com/watch?v=S53hlX6iImI&t=71s&ab_channel=WordPressInfo
 WP Statistics \
 https://www.youtube.com/watch?v=VMhwp0anQu8&ab_channel=WebTaskWithHassan
 
+# reCAPTCHA 
+https://www.youtube.com/watch?v=vspFM_jqM9k&ab_channel=WPForms-WordPressFormsPlugin
+
 # Elementor loading error fix
 1-Elementor setting->Advanced->Switch Editor Loader Method->Enable \
 2-Permalink Settings - choose--> Plain
