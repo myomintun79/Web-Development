@@ -55,7 +55,9 @@ WP Statistics \
 https://www.youtube.com/watch?v=VMhwp0anQu8&ab_channel=WebTaskWithHassan
 
 # reCAPTCHA 
-https://www.youtube.com/watch?v=vspFM_jqM9k&ab_channel=WPForms-WordPressFormsPlugin
+https://www.youtube.com/watch?v=vspFM_jqM9k&ab_channel=WPForms-WordPressFormsPlugin \
+Contact Form \
+https://www.youtube.com/watch?v=zkwFXur8A2U&ab_channel=DarrelWilson
 
 # Elementor loading error fix
 1-Elementor setting->Advanced->Switch Editor Loader Method->Enable \
