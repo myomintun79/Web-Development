@@ -50,6 +50,9 @@ https://www.youtube.com/watch?v=EqiivbuKFBs&ab_channel=TwP-HelpingCreatorswithTe
 All In One WP Security & Firewall \
 https://www.youtube.com/watch?v=S53hlX6iImI&t=71s&ab_channel=WordPressInfo
 
+# File Protection
+https://wordpress.org/plugins/prevent-direct-access/
+
 # Visitor Tracking
 WP Statistics \
 https://www.youtube.com/watch?v=VMhwp0anQu8&ab_channel=WebTaskWithHassan
