@@ -68,6 +68,9 @@ https://wordpress.org/plugins/altcha-spam-protection/
 1-Elementor setting->Advanced->Switch Editor Loader Method->Enable \
 2-Permalink Settings - choose--> Plain
 
+# Translate
+https://translatepress.com/
+
 # Hotel
 https://wordpress.org/plugins/wp-hotel-booking/ \
 
