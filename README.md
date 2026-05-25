@@ -69,7 +69,10 @@ https://wordpress.org/plugins/altcha-spam-protection/
 2-Permalink Settings - choose--> Plain
 
 # Translate
-https://translatepress.com/
+https://translatepress.com/ \
+https://www.youtube.com/watch?v=56qbH2F6ZYA&t=378s \
+Use any Font(Plugin) \
+https://www.youtube.com/watch?v=M-_i8VBvrS0
 
 # Hotel
 https://wordpress.org/plugins/wp-hotel-booking/ \
