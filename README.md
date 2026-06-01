@@ -74,6 +74,9 @@ https://www.youtube.com/watch?v=56qbH2F6ZYA&t=378s \
 Use any Font(Plugin) \
 https://www.youtube.com/watch?v=M-_i8VBvrS0
 
+# TikTok videos into your WordPress 
+Open the specific TikTok video and click the Share button.Click Embed and copy the provided HTML code.In your WordPress editor, click the + (Add Block) button and search for Custom HTML.Paste the code here. 
+
 # Hotel
 https://wordpress.org/plugins/wp-hotel-booking/ \
 
