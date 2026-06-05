@@ -7,7 +7,6 @@ https://certbot.eff.org/ \
 Check your SSL \
 https://www.ssllabs.com/ssltest/  \
 
-
 # Wordpress
 Things You Need to Do After Installing WordPress \
 https://www.youtube.com/watch?v=0fKqg515PPo&ab_channel=DarrelWilson \
@@ -52,6 +51,10 @@ https://www.youtube.com/watch?v=S53hlX6iImI&t=71s&ab_channel=WordPressInfo
 
 # File Protection
 https://wordpress.org/plugins/prevent-direct-access/
+
+# Dark Mode or Light Mode
+https://wordpress.org/plugins/wp-dark-mode/ \
+https://www.youtube.com/watch?v=3aw7HvWz6c0
 
 # Visitor Tracking
 WP Statistics \
