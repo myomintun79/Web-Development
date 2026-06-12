@@ -92,3 +92,8 @@ https://www.youtube.com/watch?v=daJ3JmoVKHA&ab_channel=PracticalTechSkills \
 https://www.youtube.com/watch?v=Oiev24fEznk&list=PL8kmtBsBrpsw6P4DOTdr-6x5d7vRQSQtk&index=2&ab_channel=WebShanks \
 https://www.youtube.com/watch?v=ap1N3fG7S1I&list=PL8kmtBsBrpsw6P4DOTdr-6x5d7vRQSQtk&index=3&ab_channel=WebShanks
 
+# Static Site Generator (SSG)
+https://getpublii.com/ \
+https://webstudio.is/ \
+https://grapesjs.com/
+
